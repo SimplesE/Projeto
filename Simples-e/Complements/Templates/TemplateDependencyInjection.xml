@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<configuration>
+  <configSections>
+    <section name="unity"
+       type="Microsoft.Practices.Unity.Configuration.UnityConfigurationSection, 
+               Microsoft.Practices.Unity.Configuration" />
+  </configSections>
+  <unity>
+    <containers>
+      <container>
+        <types>
+          <type type="SimplesE.Factory.Common.IDataFactory, SimplesE.Factory.Common" mapTo="SimplesE.Factory.DataFactory, SimplesE.Factory" />
+        </types>
+      </container>
+    </containers>
+  </unity>
+</configuration>
