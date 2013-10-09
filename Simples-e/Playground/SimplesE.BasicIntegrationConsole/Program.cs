@@ -9,7 +9,9 @@ using SimplesE.Model.Core;
 namespace SimplesE.BasicIntegrationConsole {
     class Program {
         static void Main(string[] args) {
-            
+
+            Console.WriteLine("iniciando");
+
             var factory = new ChannelFactory<SimplesEService.ICoreService>("WSHttpBinding_ICoreService");
             
             var channel = factory.CreateChannel();
@@ -17,6 +19,9 @@ namespace SimplesE.BasicIntegrationConsole {
             User newUser = new User();
 
             var result = channel.InsertUser(newUser);
+
+            Console.WriteLine("executado");
+            Console.ReadLine();
         }
     }
 }

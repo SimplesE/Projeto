@@ -1,0 +1,7 @@
+F:\Dev\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Data.Common.dll
+F:\Dev\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Data.Common.pdb
+F:\Dev\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Model.dll
+F:\Dev\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Model.pdb
+F:\Dev\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.csprojResolveAssemblyReference.cache
+F:\Dev\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.dll
+F:\Dev\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.pdb
