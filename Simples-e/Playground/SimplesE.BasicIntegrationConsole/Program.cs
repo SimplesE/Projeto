@@ -17,9 +17,11 @@ namespace SimplesE.BasicIntegrationConsole {
             var channel = factory.CreateChannel();
 
             User newUser = new User();
+            newUser.Name = DateTime.Now.Second.ToString();
 
             var result = channel.InsertUser(newUser);
 
+            Console.WriteLine(result.Completed);
             Console.WriteLine("executado");
             Console.ReadLine();
         }

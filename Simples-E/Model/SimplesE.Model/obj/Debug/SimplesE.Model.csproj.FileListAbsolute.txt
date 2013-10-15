@@ -3,3 +3,8 @@ F:\Dev\Simples-E\Model\SimplesE.Model\bin\Debug\SimplesE.Model.pdb
 F:\Dev\Simples-E\Model\SimplesE.Model\obj\Debug\SimplesE.Model.csprojResolveAssemblyReference.cache
 F:\Dev\Simples-E\Model\SimplesE.Model\obj\Debug\SimplesE.Model.dll
 F:\Dev\Simples-E\Model\SimplesE.Model\obj\Debug\SimplesE.Model.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Model\SimplesE.Model\bin\Debug\SimplesE.Model.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Model\SimplesE.Model\bin\Debug\SimplesE.Model.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Model\SimplesE.Model\obj\Debug\SimplesE.Model.csprojResolveAssemblyReference.cache
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Model\SimplesE.Model\obj\Debug\SimplesE.Model.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Model\SimplesE.Model\obj\Debug\SimplesE.Model.pdb
