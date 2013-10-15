@@ -4,36 +4,22 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.ServiceModel;
+using SimplesE.Business;
+using SimplesE.Model.Core;
 
 namespace SimplesE.API.Controllers
 {
     public class UserController : ApiController
     {
         // GET api/user
-        public IEnumerable<string> Get()
+        public IEnumerable<User> GetAll()
         {
-            return new string[] { "value1", "value2" };
-        }
+            var ruler = new UserRuler();
 
-        // GET api/user/5
-        public string Get(int id)
-        {
-            return "value";
-        }
+            var result = ruler.GetAll();
 
-        // POST api/user
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT api/user/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/user/5
-        public void Delete(int id)
-        {
+            return result;
         }
     }
 }

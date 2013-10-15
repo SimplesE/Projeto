@@ -3,15 +3,19 @@ using SimplesE.Model.Core;
 using SimplesE.Model.Service;
 using System;
 
-namespace SimplesE.Service {
+namespace SimplesE.Service
+{
 
-    public class CoreService : Contract.ICoreService {
+    public class CoreService : Contract.ICoreService
+    {
 
-        public ServiceResult<User> InsertUser(User user) {
+        public ServiceResult<User> InsertUser(User user)
+        {
 
             ServiceResult<User> result = new ServiceResult<User>();
 
-            try {
+            try
+            {
 
                 var userBusiness = new UserRuler();
 
@@ -19,7 +23,31 @@ namespace SimplesE.Service {
 
                 result.Completed = true;
             }
-            catch (Exception ex) {
+            catch (Exception ex)
+            {
+
+                result.Completed = false;
+                result.Exception = ex;
+            }
+
+            return result;
+        }
+
+        public ServiceResult<User> GetAll()
+        {
+            ServiceResult<User> result = new ServiceResult<User>();
+
+            try
+            {
+
+                var userBusiness = new UserRuler();
+
+                userBusiness.GetAll();
+
+                result.Completed = true;
+            }
+            catch (Exception ex)
+            {
 
                 result.Completed = false;
                 result.Exception = ex;

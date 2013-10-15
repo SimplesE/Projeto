@@ -9,11 +9,4 @@ F:\Dev\Simples-E\Playground\SimplesE.BasicIntegrationConsole\obj\Debug\SimplesE.
 C:\Users\priscila.sato\Downloads\Simples-E\Simples-E\Playground\SimplesE.BasicIntegrationConsole\bin\Debug\SimplesE.BasicIntegrationConsole.exe.config
 C:\Users\priscila.sato\Downloads\Simples-E\Simples-E\Playground\SimplesE.BasicIntegrationConsole\obj\Debug\SimplesE.BasicIntegrationConsole.exe
 C:\Users\priscila.sato\Downloads\Simples-E\Simples-E\Playground\SimplesE.BasicIntegrationConsole\obj\Debug\SimplesE.BasicIntegrationConsole.pdb
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\bin\Debug\SimplesE.BasicIntegrationConsole.exe.config
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\bin\Debug\SimplesE.BasicIntegrationConsole.exe
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\bin\Debug\SimplesE.BasicIntegrationConsole.pdb
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\bin\Debug\SimplesE.Model.dll
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\bin\Debug\SimplesE.Model.pdb
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\obj\Debug\SimplesE.BasicIntegrationConsole.exe
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\obj\Debug\SimplesE.BasicIntegrationConsole.pdb
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Playground\SimplesE.BasicIntegrationConsole\obj\Debug\SimplesE.BasicIntegrationConsole.csprojResolveAssemblyReference.cache

@@ -8,6 +8,10 @@ C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Micro
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Newtonsoft.Json.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Business.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Factory.Common.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Factory.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Model.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\System.Net.Http.Formatting.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\System.Spatial.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\System.Web.Helpers.dll
@@ -23,6 +27,14 @@ C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Syste
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\System.Web.WebPages.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\System.Web.WebPages.Razor.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\WebGrease.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Data.Common.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Data.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Business.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Factory.Common.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Factory.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Model.pdb
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\EntityFramework.xml
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Newtonsoft.Json.xml
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\System.Net.Http.Formatting.xml
@@ -39,6 +51,10 @@ C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Syste
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Data.Edm.xml
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Data.OData.xml
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\System.Spatial.xml
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Data.Common.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Practices.Unity.xml
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Data.pdb
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\de\Microsoft.Data.Edm.resources.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\es\Microsoft.Data.Edm.resources.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\fr\Microsoft.Data.Edm.resources.dll
@@ -69,5 +85,3 @@ C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\zh-Ha
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\obj\Debug\SimplesE.API.csprojResolveAssemblyReference.cache
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\obj\Debug\SimplesE.API.dll
 C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\obj\Debug\SimplesE.API.pdb
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Model.dll
-C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\SimplesE.API\bin\SimplesE.Model.pdb

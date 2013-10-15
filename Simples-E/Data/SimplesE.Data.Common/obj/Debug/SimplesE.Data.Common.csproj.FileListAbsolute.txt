@@ -5,3 +5,10 @@ F:\Dev\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Model.pdb
 F:\Dev\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.csprojResolveAssemblyReference.cache
 F:\Dev\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.dll
 F:\Dev\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Data.Common.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Data.Common.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Model.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Data\SimplesE.Data.Common\bin\Debug\SimplesE.Model.pdb
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.csprojResolveAssemblyReference.cache
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.dll
+C:\Users\priscila.sato\Documents\github\Projeto\Simples-E\Data\SimplesE.Data.Common\obj\Debug\SimplesE.Data.Common.pdb
